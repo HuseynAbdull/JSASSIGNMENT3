@@ -1,0 +1,16 @@
+#box {
+    width: 10rem;
+    height: 10rem;
+    background-color: hsl(180, 90%, 37%);
+    cursor: pointer;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5rem;
+}
+
+#box p {
+    font-size: 1.7vw;
+    color: white;
+}
